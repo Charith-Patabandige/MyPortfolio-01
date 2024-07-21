@@ -1,0 +1,86 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(39, 2, 67, 0.7),rgba(211, 194, 221, 0.7));
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-content{
+    text-align: center;
+    width: 60%;
+    padding: 10px 40px 10px 40px;
+}
+
+.hero-content h1{
+    font-size: 70px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.hero-content h2{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.hero-content p{
+    font-size: 20px;
+    max-width: 700;
+    margin: 10px auto 20px;
+    line-height: 1.4;
+    font-weight: 100px;
+}
+
+.social-links{
+    display: flex;
+    justify-content: center; /* Center-aligns items horizontally */
+    align-items: center;     /* Center-aligns items vertically */
+}
+
+.social-links img{
+    width: 50px;
+    margin: 40px 10px; /* Optional: Spacing between icons */
+    
+}
+
+.profile-pic{
+    display: flex;
+    width: 40%;
+    justify-content: center; /* Center-aligns items horizontally */
+    align-items: center;     /* Center-aligns items vertically */
+}
+
+
+
+.profile-pic img{
+    width: 300px;
+    border-radius: 100%;
+}
+
+/* --------------media query ----------------- */
+
+@media (max-width: 850px){
+    .hero-text h1{
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 650px){
+    .hero-text h1{
+        font-size: 30px;
+        max-width: 400px;
+        margin: auto;
+    }
+    .hero-text p{
+        font-size: 14px;
+        margin: 15px auto 30px;
+        
+    }
+}
