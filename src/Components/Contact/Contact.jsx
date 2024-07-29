@@ -45,7 +45,7 @@ const Contact = () => {
         <ul>
             <li> <img src={mail_icon} alt="" /> <a href="mailto:charithpds@gmail.com" >charithpds@gmail.com</a></li>
             <li> <img src={phone_icon} alt="" /> 071 7977863</li>
-            <li> <img src={location_icon} alt="" /> Ladduwa, Meegam, Darga Town</li>
+            <li> <img src={location_icon} alt="" /> Kalutara, Sri Lanka</li>
         </ul>
       </div>
 

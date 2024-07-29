@@ -6,7 +6,7 @@ import list_icon from '../../assets/checked.png'
 
 const Campus = () => {
   return (
-    <div className='skills'>
+    <div className='skills' id='campus'>
       <div className="skill-category">
         <h3>Frontend Technologys</h3>
         <div className='item'><img src={list_icon} alt='' /><p>HTML</p></div>

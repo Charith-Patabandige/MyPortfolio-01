@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import profile_picture from '../../assets/profile-image-1.jpg'
+import profile_picture from '../../assets/profile-image-1.png'
 import github_icon from '../../assets/github.png'
 import linkedin_icon from '../../assets/linkedin.png'
 import behance_icon from '../../assets/behance.png'
