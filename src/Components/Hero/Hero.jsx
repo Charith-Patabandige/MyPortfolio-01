@@ -14,7 +14,7 @@ const Hero = () => {
             <h2>Full Stack Developer</h2>
             <p>I am Undergraduate at Sabaragamuwa University of Sri Lanka and am currently pursing a B.Sc (Hons) Computing & Information Systems Degree. I am a fast learner who adapts quickly to change and eager to learn new methods and technologies, and work as an effective team member. Intend to work smart for the advancement of any project that I'm working on.</p>
 
-            <a href="https://drive.google.com/file/d/1ralAGCJC0-0Xfb4zd5rAVOsVOvpkrKr4/view?usp=sharing" download="Charith CV"><button className='btn'>Resume</button></a>
+            <a href="https://drive.google.com/file/d/1r_e7_blat_8wewO48DDLGBrHcbB8cef3/view?usp=drive_link" download="Charith CV"><button className='btn'>Resume</button></a>
 
             <div className='social-links'>
                 <a href='https://github.com/charith98patabandige'> <img src={github_icon} alt='' /> </a>
