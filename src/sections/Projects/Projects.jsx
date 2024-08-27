@@ -14,25 +14,29 @@ function Projects() {
           src={academicity}
           link="https://academicity.netlify.app/"
           h3="Academicity"
-          p="University Website"
+          p="React"
+          // p="University Website"
         />
         <ProjectCard
           src={carzone}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://carzonelk.netlify.app/"
           h3="CarZoneLK"
-          p="Car Selling Web App"
+          p="Next.Js | Tailwind CSS"
+          // p="Car Selling Web App"
         />
         <ProjectCard
           src={eduversa}
           link="https://eduversa-f2b8a.web.app/admin"
           h3="EduVersa"
-          p="All in one LMS"
+          p="React | Fire Base"
+          // p="All in one LMS"
         />
         <ProjectCard
           src={chatapp}
           link="https://github.com/Charith-Patabandige/Chat-App"
           h3="ChatApp"
-          p="Messaging App"
+          p="React | Fire Base"
+          // p="Messaging App"
         />
       </div>
     </section>
