@@ -19,7 +19,8 @@
 }
 
 body {
-  background-color: var(--background-color);
+  /* background-color: var(--background-color); */
+  background-color: #1a1a1a;
   display: flex;
   justify-content: center;
   margin: 0 auto 60px;
